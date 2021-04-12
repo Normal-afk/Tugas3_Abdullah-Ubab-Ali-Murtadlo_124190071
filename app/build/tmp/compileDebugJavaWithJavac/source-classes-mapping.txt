@@ -1,0 +1,19 @@
+com/example/tugas3_intentrecyclerview/BuildConfig.java
+ com.example.tugas3_intentrecyclerview.BuildConfig
+com/example/tugas3_intentrecyclerview/MovieModel.java
+ com.example.tugas3_intentrecyclerview.MovieModel
+com/example/tugas3_intentrecyclerview/SinopsisMovie.java
+ com.example.tugas3_intentrecyclerview.SinopsisMovie
+com/example/tugas3_intentrecyclerview/MovieData.java
+ com.example.tugas3_intentrecyclerview.MovieData
+com/example/tugas3_intentrecyclerview/MainActivity.java
+ com.example.tugas3_intentrecyclerview.MainActivity
+ com.example.tugas3_intentrecyclerview.MainActivity$1
+ com.example.tugas3_intentrecyclerview.MainActivity$2
+ com.example.tugas3_intentrecyclerview.MainActivity$3
+ com.example.tugas3_intentrecyclerview.MainActivity$4
+com/example/tugas3_intentrecyclerview/MovieAdapter.java
+ com.example.tugas3_intentrecyclerview.MovieAdapter
+ com.example.tugas3_intentrecyclerview.MovieAdapter$OnItemClickListener
+ com.example.tugas3_intentrecyclerview.MovieAdapter$ViewHolder
+ com.example.tugas3_intentrecyclerview.MovieAdapter$ViewHolder$1
