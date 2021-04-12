@@ -2,4 +2,4 @@
 
 Tugas 3 Intent dan Recyclerview
 
-Gambarnya kena copyright ga ya?
+Ini gambar dan deskripsi film cuma buat tugas, plz jangan kena copyright 😥
